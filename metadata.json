@@ -1,0 +1,8 @@
+{
+  "name": "JBL Tour Pro 3 — Flagship True Wireless Earbuds",
+  "description": "TEST DESCRIPTION: Explore the JBL Tour Pro 3 with Smart Charging Case, hybrid dual drivers, True Adaptive ANC, Bluetooth 5.3 multipoint connectivity, and personalized audio studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
